@@ -29,6 +29,6 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
 </div>
 
 <div style="width: 100%; margin-top: 40px; margin-bottom: 20px;">
-  <img src="banner_publicaciones.jpg" alt="Selected Publications" style="width: 100%; height: auto; display: block;">
+  <img src="banner_publications.png.png" alt="Selected Publications" style="width: 100%; height: auto; display: block;">
 </div>
 
