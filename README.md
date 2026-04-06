@@ -3,9 +3,6 @@
 </div>
 
 <div style="width: 100%; text-align: center; margin-top: 40px; margin-bottom: 40px;">
-  <p style="font-family: 'Cy Grotesk Key', sans-serif; text-transform: uppercase; letter-spacing: 2px; font-size: 0.8rem; color: #777; margin-bottom: 15px;">
-    Research Published & Presented In:
-  </p>
   <img src="impacto_logos.png" alt="Scientific Impact Logos" style="width: 90%; height: auto; display: block; margin: 0 auto;">
 </div>
 
