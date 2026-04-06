@@ -2,9 +2,12 @@
   <img src="header_pro.png" style="width: 100%; max-width: 1000px; height: auto;">
 </div>
 
-<div style="text-align: center; margin-top: -20px; margin-bottom: 50px;">
-  <a href="cv.pdf" class="btn">Download Full CV (PDF)</a>
-  <a href="https://orcid.org/..." class="btn">ORCID iD</a>
+<div style="text-align: center; margin-bottom: 50px;">
+  <a href="cv.pdf" class="btn">Download Full CV (PDF)</a> &nbsp;
+  <a href="https://orcid.org/0000-0002-3925-5026" class="btn">ORCID iD Profile</a>
+</div>
+
+<div style="text-align: justify; line-height: 1.6; color: #444;">
 </div>
 
 <div style="text-align: justify;">
