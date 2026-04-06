@@ -24,6 +24,3 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
   </p>
 </div>
 
-
-### 📄 Resources & Contact
-* [**ORCID iD Profile**](https://orcid.org/0000-0003-1834-4015){: .btn }
