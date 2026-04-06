@@ -2,51 +2,56 @@
 ---
 @import "{{ site.theme }}";
 
-// 1. ELIMINAR EL HEADER ORIGINAL (ARENA/VERDE)
+// 1. ELIMINAR EL HEADER ORIGINAL (PARA QUE LUZCA TU BANNER)
 .page-header {
   display: none !important;
 }
 
-// 2. CONFIGURACIÓN DEL CUERPO (LOOK EDITORIAL)
+// 2. CONFIGURACIÓN DE TIPOGRAFÍA Y CUERPO
 body {
-  background-color: #ffffff; // Blanco puro para que resalte el banner
-  color: #2d2d2d;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  // Priorizamos Cy Grotesk y usamos Inter/Arial como respaldo
+  font-family: "Cy Grotesk Key", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 .main-content {
-  max-width: 1000px; // Un poco más ancho para que luzca el banner
-  padding-top: 0 !important; // Pegamos el banner al techo
+  max-width: 1000px; 
+  padding-top: 0 !important;
   margin-top: 0 !important;
-  text-align: justify; // Tu pedido de texto justificado
-  hyphens: auto;
+  // Justificado para todo el contenido principal
+  text-align: justify;
+  line-height: 1.6;
 }
 
-// 3. BOTONES MINIMALISTAS (GRIS COMO EL BANNER)
+// 3. BOTONES MINIMALISTAS (GRIS OSCURO COMO EL BANNER)
 .btn {
+  display: inline-block;
   color: #ffffff !important;
-  background-color: #4a4a4a !important; // Gris oscuro institucional
+  background-color: #333333 !important; 
   border: none !important;
   border-radius: 4px !important;
-  padding: 10px 20px !important;
-  font-size: 0.9rem !important;
+  padding: 12px 24px !important;
+  font-size: 0.85rem !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   text-decoration: none !important;
+  margin: 10px 5px;
   transition: opacity 0.2s;
-  
+
   &:hover {
     opacity: 0.8;
+    color: #ffffff !important;
   }
 }
 
-// 4. ESTILO DE TÍTULOS Y LINKS
+// 4. ESTILO DE TÍTULOS
 h1, h2, h3 {
-  color: #333333;
+  font-family: "Cy Grotesk Key", sans-serif;
+  color: #222222;
   border-bottom: 1px solid #eeeeee;
   padding-bottom: 10px;
-  margin-top: 40px;
-}
-
-a {
-  color: #666666; // Links en gris sutil
-  text-decoration: underline;
+  margin-top: 50px;
 }
