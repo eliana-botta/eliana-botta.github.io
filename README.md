@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
-  <img src="perfil.jpg.png" style="width: 180px; border-radius: 50%; border: 4px solid #159957;">
+  <img src="perfil.jpg.png" style="width: 180px; border-radius: 50%; border: 4px solid #d5bdaf;">
   <div>
     <h1 style="margin-top: 0;">PhD. Eliana Elizabeth Botta</h1>
     <p style="font-size: 1.1rem; color: #606c71;">Biological Researcher | Biochemistry & Physiology Specialist</p>
@@ -13,9 +13,9 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
 ---
 
 <br><br>
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #159957;">
-  <h3 style="margin-top: 0; color: #159957;">Strategic Impact</h3>
-  <p style="font-style: italic; color: #34495e;">
+<div style="background-color: #faf7f2; padding: 25px; border-radius: 12px; border-left: 6px solid #b5838d; box-shadow: 2px 2px 10px rgba(0,0,0,0.02);">
+  <h3 style="margin-top: 0; color: #6d6875;">Strategic Impact</h3>
+  <p style="font-style: italic; color: #4a4e69; line-height: 1.6;">
     "My research bridges the gap between complex genetic data and real-world clinical solutions, 
     aiming to revolutionize how we treat cardiovascular and metabolic disorders through 
     interdisciplinary innovation."
