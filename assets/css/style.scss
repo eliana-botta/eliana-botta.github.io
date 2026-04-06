@@ -1,0 +1,24 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Personalización de colores Beige
+.page-header {
+  background-color: #f5f5dc; // Beige claro
+  background-image: linear-gradient(120deg, #e3d5ca, #d5bdaf); // Degradado arena
+  color: #4a4e69; // Texto del título en gris oscuro/tierra
+}
+
+.btn {
+  color: #f5f5dc !important;
+  background-color: #8d99ae !important; // Botones en un tono piedra
+  border-color: #8d99ae !important;
+}
+
+.main-content h1, .main-content h2, .main-content h3 {
+  color: #6d6875; // Títulos internos en tono uva/tierra
+}
+
+.main-content a {
+  color: #b5838d; // Links en un rosa viejo/tierra
+}
