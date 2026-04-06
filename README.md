@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
-  <img src="perfil.jpg.jpeg" style="width: 180px; border-radius: 50%; border: 4px solid #d5bdaf;">
+  <img src="perfil.png" style="width: 180px; border-radius: 50%; border: 4px solid #d5bdaf;">
   <div>
     <h1 style="margin-top: 0;">PhD. Eliana Elizabeth Botta</h1>
     <p style="font-size: 1.1rem; color: #606c71;">Biological Researcher | Biochemistry & Physiology Specialist</p>
