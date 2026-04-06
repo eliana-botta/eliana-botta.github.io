@@ -13,6 +13,11 @@
   
 Expert in interdisciplinary research across cardiovascular, metabolic, and genetic diseases, with a proven track record of driving innovation and high-impact scientific discoveries. My work focuses on advancing therapeutic strategies for cardiovascular, metabolic, and genetic diseases**. With over 5 years of high-level research experience in Biochemistry, Pharmacology, and Physiology, I lead interdisciplinary investigations that bridge the gap between fundamental science and clinical applications. Beyond my technical contributions, I am a dedicated **mentor to scientific trainees**, fostering collaborative environments that drive innovation in complex biomedical challenges.
 </div>
+
+ <div style="text-align: center; margin-bottom: 50px;">
+  <a href="CV_ElianaBotta_2026_ind.docx" class="btn">Download Full CV (PDF)</a> &nbsp;
+  <a href="https://orcid.org/0000-0003-1834-4015" class="btn"> ORCID iD Profile</a>
+</div>
 ---
 
 <div style="background-color: #f8f9fa; padding: 35px; border-left: 4px solid #333333; margin: 40px 0; border-radius: 0 8px 8px 0; box-shadow: 2px 2px 15px rgba(0,0,0,0.03);">
@@ -71,12 +76,6 @@ Expert in interdisciplinary research across cardiovascular, metabolic, and genet
     <p>• <strong>Botta, E. E.</strong>, et al. (2020). <em>"Improvement in the capacity of HDL to acquire free cholesterol associated with anti-inflammatory actions of tofacitinib in patients with RA."</em> 88th EAS Virtual Congress.</p>
 
     <p>• Pierini, F., ..., <strong>Botta, E.</strong>, et al. (2019). <em>"Effect of tocilizumab on HDL and LDL characteristics in patients with Rheumatoid Arthritis."</em> ACR/ARP Annual Meeting, Atlanta, GA.</p>
-
-
-    <div style="text-align: center; margin-bottom: 50px;">
-  <a href="CV_ElianaBotta_2026_ind.docx" class="btn">Download Full CV (PDF)</a> &nbsp;
-  <a href="https://orcid.org/0000-0003-1834-4015" class="btn"> ORCID iD Profile</a>
-</div>
 
     <p>• <strong>Botta, E.</strong>, et al. (2017). <em>"Possible effect of cholesteryl-ester transfer protein activity on paraoxonase 1 antioxidant function."</em> 21º IUNS International Congress of Nutrition, Buenos Aires.</p>
   </div>
